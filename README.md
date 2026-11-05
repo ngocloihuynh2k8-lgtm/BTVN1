@@ -16,4 +16,4 @@ Các section chính:
 4. Các dòng sản phẩm
 ----------------------------------------------------------
 CTA:
-"Mua AirPods ngay"
+"Mua ngay"
